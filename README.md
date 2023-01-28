@@ -6,7 +6,7 @@
 
 ## Description
 
-This notification service was project developed on Rocketseat's Ignite Lab using NestJS, Prisma, Class Validation, Jest & several other concepts.
+This notification service project was developed on Rocketseat's Ignite Lab using NestJS, Prisma, Class Validation, Jest & several other concepts.
 
 ## Features
 
