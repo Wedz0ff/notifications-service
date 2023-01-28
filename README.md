@@ -12,12 +12,12 @@ This notification service project was developed on Rocketseat's Ignite Lab using
 
 ### Routes
 
-`POST /notifications`
-`GET /notifications/count/from/:recipientId`
-`GET /notifications/from/:recipientId`
-`PATCH /notifications/:id/cancel`
-`PATCH /notifications/:id/read`
-`PATCH /notifications/:id/unread`
+- `POST /notifications`
+- `GET /notifications/count/from/:recipientId`
+- `GET /notifications/from/:recipientId`
+- `PATCH /notifications/:id/cancel`
+- `PATCH /notifications/:id/read`
+- `PATCH /notifications/:id/unread`
 
 ## Installation
 
